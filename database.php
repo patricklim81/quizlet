@@ -15,3 +15,11 @@ if($mysqli->connect_error) {
 }
 
 ?>
+
+
+<!--aws
+	DB instance Id: quizlet
+	DB name: quizlet
+	username: bazuccka
+	password: qc^M6Ben^#90
+-->
