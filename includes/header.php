@@ -1,5 +1,5 @@
 <?php include 'database.php'; ?>
-<?PHP 
+<?php
 	//Get Total Nmber of Questions
 	$query ="SELECT * FROM questions";
 	//GET RESULTS
@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" value="text/html; charset=UTF-8" />
 		<title>Quizlet</title>
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link href="css/bootstrap.css" rel="stylesheet">
