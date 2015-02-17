@@ -15,6 +15,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet">
 	</head>
 	<body>
+			<div id="wrapper">
 		<header>
 			<div class="container">
 				<h1>Quizlet</h1>

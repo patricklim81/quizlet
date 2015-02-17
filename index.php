@@ -9,7 +9,7 @@
 					<li><strong>Type: </strong> Multiple Choice </li>
 					<li><strong>Estimated Time: </strong><?PHP echo $total * .5 ?> Minutes </li>
 				</ul>
-				<a href="question.php?n=1" class="start">Start Quiz</a>
+				<a  class="btn btn-lg btn-primary btn-block" href="question.php?n=1" class="start">Start Quiz</a>
 			</div>
 		</main>
 
