@@ -91,6 +91,10 @@ main {
 form {
 	height: 25%;
 }
+ul{
+	padding-left: 0;
+}
+
 a.start {
 	display: inline-block;
 	color: #fff;
@@ -107,6 +111,12 @@ a.start {
 	border: #ccc dotted 1px;
 	padding: 10px;
 	margin: 20px 0 10px 0;
+}
+btn-block{
+margin: auto;
+}
+ul li {
+	margin-bottom: 10px;
 }
 btn hover {
 	background-color: #337ab7;

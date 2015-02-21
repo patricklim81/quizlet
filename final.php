@@ -6,7 +6,7 @@
 				<h2>You're Done!</h2>
 				<p>Congrats! You have completed the test</p>
 				<p>Final Score: <?PHP echo $_SESSION['score']; ?></p>
-				<a href="question.php?n=1" class="start">Take Again</a>
+				<a class="btn btn-lg btn-primary btn-block" href="question.php?n=1" class="start">Take Again</a>
 			</div>
 		</main>
 <?php include 'includes/footer.php'; ?>

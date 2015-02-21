@@ -9450,7 +9450,6 @@ fieldset[disabled] .btn-link:focus {
   font-size: 18px;
   line-height: 1.33;
   border-radius: 6px;
-  margin-bottom: 10px;
 }
 .btn-sm,
 .btn-group-sm > .btn {
@@ -9469,8 +9468,7 @@ fieldset[disabled] .btn-link:focus {
 .btn-block {
   display: block;
   width: 300px;
-  margin-left: 35%;
-  margin-right: 415px;
+  margin:auto;
 }
 .btn-block + .btn-block {
   margin-top: 5px;
