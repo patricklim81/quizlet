@@ -2,8 +2,7 @@
 
 		<main>
 			<div class="container">
-				<h2>Test Your PHP Knowdledge</h2>
-				<p>This is a multiple choice quiz to test your knowledge of PHP</p>
+				<h2>Test Your Knowledge</h2>
 				<ul>
 					<li><strong>Number of Questions: </strong> <?PHP echo $total; ?> </li>
 					<li><strong>Type: </strong> Multiple Choice </li>

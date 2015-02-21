@@ -130,7 +130,9 @@ body > main > div > form > ul > li:nth-child(3) > button {
 	background-color: #337ab7;
 	border: 1px #2e6da4;
 }
-
+#wrapper > main > a{
+	margin-top: 10%;
+}
 
 @media only screen and (max-width: 960px) {
 	.container {
@@ -144,7 +146,9 @@ body > main > div > form > ul > li:nth-child(3) > button {
 		height: 25%;
 		width: 25%;
 	}
-
+	#wrapper > main > a{
+		margin-top: 5%;
+	}
 }
 
 @media only screen and (max-width: 500px) {
@@ -156,13 +160,18 @@ body > main > div > form > ul > li:nth-child(3) > button {
 	body > main{
 		height:503px;
 	}
-	body > main > div > form > ul > li:nth-child(1) > button {
+	#wrapper > main > div > form > ul > li:nth-child(1) > button {
 		width: 240px;
 		margin-left: auto;
 		margin-right: auto;
 	}
-	body > main > div > form > ul > li:nth-child(2) > button {
+	#wrapper > main > div > form > ul > li:nth-child(2) > button {
 		width: 240px;
 		margin-left: auto;
 		margin-right: auto;
 	}
+	#wrapper > main > a{
+		width: 240px;
+		margin-top: 5%;
+	}
+}

@@ -46,6 +46,7 @@
 				</ul>
 			</form>
 		</div>
+		<a class="btn btn-lg btn-primary btn-block" href="index.php" class="restart">Restart</a>
 </div>
 	</main>
 <?php include 'includes/footer.php'; ?>
