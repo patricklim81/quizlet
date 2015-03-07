@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quizlet</string>
+    <string name="True_button">True</string>
+    <string name="false_button">False</string>
+    <string name="menu_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_one">The pressure inside of a Champagne bottle is greater than the pressure inside of an automobile tire.</string>
+    <string name="question_two">The continent of Africa is so large that it is capable of holding Europe, The US, India, and China within it.</string>
+    <string name="question_three">The Nazi party created the Swastika.</string>
+    <string name="question_four">There are only three countries in the world which are completely surrounded by another country.</string>
+    <string name="question_five">Typing the word "Typewriter" on a keyboard uses only the top row of keys.</string>
+    <string name="next_button">Next</string>
+
+</resources>
